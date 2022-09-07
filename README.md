@@ -4,13 +4,14 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Flutter SDK Version: 3.0.5
 
-A few resources to get you started if this is your first Flutter project:
+Deployable Platforms: Android, iOS.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Steps to run project:(Use below command in terminal in VScode
+1. flutter pub get 
+2. flutter run
+3. select device to run.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Steps to generate APK:
+1. flutter build apk
